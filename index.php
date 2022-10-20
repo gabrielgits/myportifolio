@@ -75,8 +75,6 @@
                 <ul class="mt40 info list-unstyled">
                     <li><span>Birthdate</span> : 10/07/1993</li>
                     <li><span>Email</span> : <a href="mailto:gvgabrielvieiragabrielvieira@gmail.com"> gvgabrielvieiragabrielvieira@gmail.com</a></li>
-                    <li><span>Phone</span> : <a href="tel:+244943962996"> + (244) 943 962 996</a></li>
-                    <li><span>Address</span> : <a href="https://www.google.com/maps/@-12.3551293,13.540412,15z"> Lobito/Benguela Angola (AO)</a></li>
                 </ul> 
             </div>
             <div class="col-lg-4 about-card">
@@ -267,7 +265,7 @@
                         
                         <p>It is a delivery service that allows you to make purchases of various products available on the market without leaving your home.</p>
 
-                        <a href="https://acaciasmercado.ao/" class="btn btn-primary">Read more <i class="la la-send"></i></a>
+                        <a href="https://acaciasmercado.ao/" class="btn btn-primary">Read more</a>
                     </div>
                 </div><!-- end of blog wrapper -->
 
@@ -286,7 +284,7 @@
                         
                         <p>The SFB is a system implemented in all companies in the railway sector in Angola (CFB, CFL, CFM) that provides more agility, control and standardization in the procedures for issuing and controlling tickets, ensuring transparency in the transport of passengers and cargo.</p>
 
-                        <a href="https://cfb.sfb.ao/" class="read-more">Read more <i class="ti-angle-double-right"></i></a>
+                        <a href="https://cfb.sfb.ao/" class="btn btn-primary">Read more </a>
                     </div>
                 </div><!-- end of blog wrapper -->
                 <!-- blog-card -->
@@ -303,7 +301,7 @@
                         
                         <p> It is an app in development that allows you to meet people and make new friends with live stream features.</p>
 
-                        <a href="https://conecta.ao/" class="read-more">Read more <i class="ti-angle-double-right"></i></a>
+                        <a href="https://conecta.ao/" class="btn btn-primary">Read more</a>
                     </div>
                 </div><!-- end of blog wrapper -->
 
@@ -387,14 +385,6 @@
                 <div class="col-lg-4">
                     <div class="contact-info-card">
                         <h4 class="contact-title">Get in touch</h4>
-                        <div class="row mb-2">
-                            <div class="col-1 pt-1 mr-1">
-                                <i class="ti-mobile icon-md"></i>
-                            </div>
-                            <div class="col-10 ">
-                                <h6 class="d-inline">Phone : <br> <span class="text-muted"><a href="tel:+244943962996"> + (244) 943 962 996</a></span></h6>
-                            </div>
-                        </div>
                         <div class="row mb-2">
                             <div class="col-1 pt-1 mr-1">
                                 <i class="ti-envelope icon-md"></i>
