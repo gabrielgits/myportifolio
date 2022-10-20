@@ -51,7 +51,7 @@
                 </ul>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="#service" class="nav-link">My Services</a>
+                        <a href="#service" class="nav-link">My Projets</a>
                     </li>
                     <li class="nav-item last-item">
                         <a href="#contact" class="nav-link">Contact</a>
@@ -95,7 +95,11 @@
                     <div class="progress mb-3">
                         <div class="progress-bar bg-danger" role="progressbar" style="width: 60%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
-                    <h6>Vue</h6>
+                    <h6>JavaScript</h6>
+                    <div class="progress mb-3">
+                        <div class="progress-bar bg-danger" role="progressbar" style="width: 75%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <h6>Vue.js</h6>
                     <div class="progress mb-3">
                         <div class="progress-bar bg-danger" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
@@ -162,7 +166,7 @@
 
     <section class="section" id="service">
         <div class="container">
-            <h2 class="mb-5 pb-4"><span class="text-danger">My</span> Services</h2>
+            <h2 class="mb-5 pb-4"><span class="text-danger">My</span> Projets</h2>
             <div class="row">
                 <div class="col-md-4 col-sm-6">
                     <div class="card mb-5">
@@ -170,8 +174,10 @@
                             <i class="ti-vector text-danger" aria-hidden="true"></i>
                         </div>
                         <div class="card-body px-4 py-3">
-                            <h5 class="mb-3 card-title text-dark">Software development</h5>
-                            <P class="subtitle">Development of professional desktop systems for small and medium companies, with database. Implementing your architecture following system development best practices.</P>
+                            <h5 class="mb-3 card-title text-dark">My Portfolio</h5>
+                            <P>This web page.</P>
+                            <P>Bootstrap, PHP and MySQL</P>
+                            <a href="https://github.com/gabrielgits/myportifolio" class="link-primary">Github >></a>
                         </div>
                     </div>
                 </div>
@@ -181,8 +187,10 @@
                             <i class="ti-write text-danger" aria-hidden="true"></i>
                         </div>
                         <div class="card-body px-4 py-3">
-                            <h5 class="mb-3 card-title text-dark">Systems integration</h5>
-                            <P class="subtitle">By integrating all the systems that your company uses, you will be optimizing time, avoiding rework of entering the same information on multiple platforms and integrating all essential data in one place.</P>
+                            <h5 class="mb-3 card-title text-dark">PerfectMatch</h5>
+                            <P class="subtitle">Matches your name and that of your partner to see if they match</P>
+                            <P>For Android and Ios</P>
+                            <a href="https://github.com/gabrielgits/perfectmatch" class="link-primary">Github >></a>
                         </div>
                     </div>
                 </div>
@@ -192,8 +200,10 @@
                             <i class="ti-package text-danger" aria-hidden="true"></i>
                         </div>
                         <div class="card-body px-4 py-3">
-                            <h5 class="mb-3 card-title text-dark">Website development</h5>
-                            <P class="subtitle">Any website for the purpose of promoting a job/business or selling a product or service. Personal Sites, Blogs, Small News Sites, Social Care Sites and for other purposes.</P>
+                            <h5 class="mb-3 card-title text-dark">CyberdoctorApp</h5>
+                            <P class="subtitle">App CyberDoctor made in flutter for andorid and ios</P>
+                            <P>For Android and Ios</P>
+                            <a href="https://github.com/gabrielgits/cyberdoctor_app" class="link-primary">Github >></a>
                         </div>
                     </div>
                 </div>
@@ -203,8 +213,10 @@
                             <i class="ti-map-alt text-danger" aria-hidden="true"></i>
                         </div>
                         <div class="card-body px-4 py-3">
-                            <h5 class="mb-3 card-title text-dark">Mobile app development</h5>
-                            <P class="subtitle">Building world-class mobile apps using a clean and agile development process across all platforms to facilitate innovative development, rapid app releases along with continuous app improvement.</P>
+                            <h5 class="mb-3 card-title text-dark">CyberdoctorAdmin</h5>
+                            <P class="subtitle">Admin for CyberDoctor App made in laravel</P>
+                            <P>PHP/LARAVEL</P>
+                            <a href="https://github.com/gabrielgits/cyberdoctor_admin" class="link-primary">Github >></a>
                         </div>
                     </div>
                 </div>
@@ -214,8 +226,10 @@
                             <i class="ti-bar-chart text-danger" aria-hidden="true"></i>
                         </div>
                         <div class="card-body px-4 py-3">
-                            <h5 class="mb-3 card-title text-dark">E-Commerce</h5>
-                            <P class="subtitle">Creation of virtual stores (e-commerce) following the latest trends and web features.</P>
+                            <h5 class="mb-3 card-title text-dark">Wela</h5>
+                            <P class="subtitle">Library needed to create the Wela game</P>
+                            <P>C++/SDL</P>
+                            <a href="https://github.com/gabrielgits/wela" class="link-primary">Github >></a>
                         </div>
                     </div>
                 </div>
@@ -225,61 +239,14 @@
                             <i class="ti-support text-danger" aria-hidden="true"></i>
                         </div>
                         <div class="card-body px-4 py-3">
-                            <h5 class="mb-3 card-title text-dark">Website and app publishing</h5>
-                            <P class="subtitle">Placement of your app in the Play Store and App Store with follow-up at a specific time.</P>
+                            <h5 class="mb-3 card-title text-dark">Drpc App</h5>
+                            <P class="subtitle">First version of CyberDoctor made in c++</P>
+                            <P>C++</P>
+                            <a href="https://github.com/gabrielgits/drpc" class="link-primary">Github >></a>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-
-    <section class="section bg-dark py-5">
-        <div class="container text-center">
-            <h2 class="text-light mb-5 font-weight-normal">I Am Available For FreeLance</h2>
-            <!-- Button trigger modal -->
-<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#exampleModal">
-    Hire me
-  </button>
-
-<!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">Hire me</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-    <form>
-        <div class="modal-body">
-            
-                <div class="form-group">
-                  <label for="exampleInputEmail1">Email address</label>
-                  <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-                  <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-                </div>
-                <div class="form-group">
-                  <label>Service</label>
-                  <select class="custom-select">
-                    <option selected>Open this select menu</option>
-                    <option value="1">One</option>
-                    <option value="2">Two</option>
-                    <option value="3">Three</option>
-                  </select>
-                </div>
-              
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-          <button type="submit" class="btn btn-primary">Submit</button>
-        </div>
-    </form>
-      </div>
-    </div>
-  </div>
-
         </div>
     </section>
 
@@ -300,7 +267,7 @@
                         
                         <p>It is a delivery service that allows you to make purchases of various products available on the market without leaving your home.</p>
 
-                        <a href="https://acaciasmercado.ao/" class="read-more">Read more <i class="ti-angle-double-right"></i></a>
+                        <a href="https://acaciasmercado.ao/" class="btn btn-primary">Read more <i class="la la-send"></i></a>
                     </div>
                 </div><!-- end of blog wrapper -->
 
@@ -343,6 +310,57 @@
             </div>
         </div>
     </section>
+
+<section class="section bg-dark py-5">
+    <div class="container text-center">
+        <h2 class="text-light mb-5 font-weight-normal">I Am Available For FreeLance</h2>
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#exampleModal">
+            Hire me
+        </button>
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Hire me</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Email address</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                        <small id="emailHelp" class="form-text text-muted">Just for contact back. We'll never use your email for something else.</small>
+                    </div>
+                    <div class="form-group">
+                        <label>Service</label>
+                        <select class="custom-select">
+                            <option selected>Open this select menu</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleFormControlTextarea1">Tell me about the project</label>
+                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="4"></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+</section>
 
     <div class="section contact" id="contact">
         <div class="container">
