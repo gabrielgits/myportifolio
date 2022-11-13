@@ -16,13 +16,13 @@
         <div class="container">
             <ul class="social-icons pt-3">
                 <li class="social-item"><a class="social-link text-light" href="https://www.facebook.com/chands.sti/"><i class="ti-facebook" aria-hidden="true"></i></a></li>
-                <li class="social-item"><a class="social-link text-light" href="https://www.linkedin.com/in/gabriel-vieira-84b455164/"><i class="ti-linkedin" aria-hidden="true"></i></a></li>
+                <li class="social-item"><a class="social-link text-light" href="https://www.linkedin.com/in/gabrielvieiralink/"><i class="ti-linkedin" aria-hidden="true"></i></a></li>
                 <li class="social-item"><a class="social-link text-light" href="https://github.com/gabrielgits"><i class="ti-github" aria-hidden="true"></i></a></li>
             </ul>  
             <div class="header-content">
                 <h4 class="header-subtitle" >Welcome to my portfolio, I am</h4>
                 <h1 class="header-title">Gabriel Vieira</h1>
-                <h6 class="header-mono" >Full Stack | Developer</h6>
+                <h6 class="header-mono" >Back-end & Mobile | Developer</h6>
                 <a class="btn btn-primary btn-rounded" href="assets/files/resume.pdf"><i class="ti-printer pr-2"></i>Resume</a>
             </div>
         </div>
@@ -46,7 +46,7 @@
                     <img src="assets/imgs/avatar.jpg" alt="" class="brand-img">
                     <li class="brand-txt">
                         <h5 class="brand-title">Gabriel Vieira</h5>
-                        <div class="brand-subtitle">Full Stack | Developer</div>
+                        <div class="brand-subtitle">Back-end & Mobile | Developer</div>
                     </li>
                 </ul>
                 <ul class="navbar-nav ml-auto">
@@ -65,7 +65,7 @@
             <div class="col-lg-4 about-card">
                 <h3 class="font-weight-light">Who am I ?</h3>
                 <span class="line mb-5"></span>
-                <h5 class="mb-3">A Full Stack / Developer. With professional skills in web and mobile programming</h5>
+                <h5 class="mb-3">A Back-end Developer. With professional skills in web and mobile programming</h5>
                 <p class="mt-20">I also have experience in desktop programming.</p>
                 <a class="btn btn-outline-danger" href="assets/files/resume.pdf"><i class="icon-down-circled2 "></i>Download My CV</a>
             </div>
@@ -75,6 +75,11 @@
                 <ul class="mt40 info list-unstyled">
                     <li><span>Birthdate</span> : 10/07/1993</li>
                     <li><span>Email</span> : <a href="mailto:gvgabrielvieiragabrielvieira@gmail.com"> gvgabrielvieiragabrielvieira@gmail.com</a></li>
+                </ul> 
+                <ul class="mt40 info list-unstyled">
+                    <li><span>I characterize myself as someone responsible, organized and very focused on their tasks. I always try
+to improve myself every day. I like good challenges.
+</span></li>
                 </ul> 
             </div>
             <div class="col-lg-4 about-card">
@@ -93,7 +98,7 @@
                     <div class="progress mb-3">
                         <div class="progress-bar bg-danger" role="progressbar" style="width: 60%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
-                    <h6>JavaScript</h6>
+                    <h6>Java</h6>
                     <div class="progress mb-3">
                         <div class="progress-bar bg-danger" role="progressbar" style="width: 75%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
@@ -101,21 +106,9 @@
                     <div class="progress mb-3">
                         <div class="progress-bar bg-danger" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
-                    <h6>Android Native</h6>
-                    <div class="progress mb-3">
-                        <div class="progress-bar bg-danger" role="progressbar" style="width: 65%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                    <h6>Flutter</h6>
+                    <h6>Mobile Developer</h6>
                     <div class="progress mb-3">
                         <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                    <h6>Embarcadero</h6>
-                    <div class="progress mb-3">
-                        <div class="progress-bar bg-danger" role="progressbar" style="width: 70%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                    <h6>Visual Studio</h6>
-                    <div class="progress mb-3">
-                        <div class="progress-bar bg-danger" role="progressbar" style="width: 75%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </div>
             </div>
